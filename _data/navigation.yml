@@ -5,7 +5,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /blob/master/Zain_Sarwar_Resume.pdf
+    url: /Zain_Sarwar_Resume.pdf
     
   - title: "Misc"
     url: /markdown/
