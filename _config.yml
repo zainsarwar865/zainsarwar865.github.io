@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "zain.sarwar@lums.edu.pk"
+    email                : zain.sarwar@lums.edu.pk
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "zain.sarwar@lums.edu.pk"
+  email            : [zain.sarwar@lums.edu.pk](mailto:zain.sarwar@lums.edu.pk)
   researchgate     : 
   uri              :
   bitbucket        :
