@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zain Sarwar"
-  avatar           : "profile.png"
+  avatar           : "Zain.png"
   bio              : "Research Assistant at LUMS"
   location         : "Lahore, Pakistan"
   employer         :
@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            :
   soundcloud       :
-  stackoverflow    : "10873786"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
