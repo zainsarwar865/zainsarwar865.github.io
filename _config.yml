@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zain Sarwar"
-  avatar           : "Zain.png"
+  avatar           :
   bio              : "Research Assistant at LUMS"
   location         : "Lahore, Pakistan"
   employer         :
