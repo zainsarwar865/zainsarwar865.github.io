@@ -84,10 +84,10 @@ author:
   avatar           : "Zain.png"
   bio              : "Research Assistant at LUMS"
   location         : "zain.sarwar@lums.edu.pk"
-  employer         : "zain.sarwar@lums.edu.pk"
+  employer         : 
   pubmed           : 
   googlescholar    :
-  email            : "zain.sarwar@lums.edu.pk"
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "zain-sarwar-562249151"
   orcid            : 
