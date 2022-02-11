@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1>About me</h1>
-I am a recent graduate from Lahore University of Management Sciences with a major in Economics and a minor in Computer Science. I am currently working as a research assistant under the supervision of Professor Mobin Javed at LUMS. My research interests lie in mobile and cloud computing. I will be starting my PhD at the University Of Chicago under the supervision of Professor Heather Zheng in the Fall of '21.
+<h1>About me</h1>0
+
+I am a first-year PhD student at the University Of Chicago in the department of Computer Science. I work in the SANDLAB where I am being advised by Professor Heather Zheng and Professor Ben Zhao. 
 
 
