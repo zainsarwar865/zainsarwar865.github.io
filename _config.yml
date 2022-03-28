@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zain Sarwar"
 title_separator          : "-"
 name                     : &name "Zain Sarwar"
-description              : &description "RA at LUMS"
+description              : &description "PhD student at UChicago"
 url                      : https://zainsarwar865.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zainsarwar865/zainsarwar865.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zain Sarwar"
   avatar           : "Zain.png"
-  bio              : "Research Assistant at LUMS"
-  location         : "zain.sarwar@lums.edu.pk"
+  bio              : "PhD student at UChicago"
+  location         : "zsarwar@uchicago.edu"
   employer         : 
   pubmed           : 
   googlescholar    :
