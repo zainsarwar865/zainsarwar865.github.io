@@ -16,4 +16,4 @@ I am a first-year PhD student at the University Of Chicago in the department of 
 <br>Jiameng Pu, <b>Zain Sarwar</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
 <br>IEEE S&P (Oakland) 2023, San Francisco, CA, May 2023.
 <br>
-<a href="https://zainsarwar865.github.io/Papers/DeepfakeText_SP23.pdf" class="btn btn-success">PDF</a>
+<a href="https://zainsarwar865.github.io/Papers/DeepfakeText_SP23.pdf" class="btn btn-success text-decoration-none">PDF</a>
