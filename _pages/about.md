@@ -20,6 +20,7 @@ I am a first-year PhD student at the University Of Chicago in the department of 
 </div>
 
 <div>
+<br>
 <h3>Publications</h3>
 
 <b>Deepfake Text Detection: Limitations and Opportunities</b>
