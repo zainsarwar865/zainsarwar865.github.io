@@ -23,6 +23,12 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <br>
 <h3>Publications</h3>
 
+<b>Towards a General Video-based Keystroke Inference Attack</b>
+<br>Zhuolin Yang, Yuxin Chen, <b>Zain Sarwar</b>, Hadleigh Schwartz, Ben Y. Zhao, Haitao Zheng
+<br>Proceedings of USENIX Security Symposium
+<br>Anaheim CA, August 2023.
+
+
 <b>Deepfake Text Detection: Limitations and Opportunities</b>
 <br>Jiameng Pu, <b>Zain Sarwar</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
 <br>IEEE S&P (Oakland) 2023, San Francisco, CA, May 2023.
