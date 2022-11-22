@@ -41,5 +41,9 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
 </div>
 
+<br>
 
 <h3>News Coverage</h3>
+
+<b>Deepfake Text Detection: Limitations and Opportunities</b>
+<a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html" >TechXplore</a>
