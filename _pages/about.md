@@ -47,6 +47,7 @@ I am a second-year PhD student at the University Of Chicago in the department of
 
 <b>Deepfake Text Detection: Limitations and Opportunities</b>
 <br>
-<a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html" >TechXplore</a>
+<a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext" >Communications of the ACM</a>
 <br>
-<a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext" >Communications of ACM</a>
+<a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html" >TechXplore</a>
+
