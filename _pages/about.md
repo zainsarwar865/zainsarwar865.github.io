@@ -34,16 +34,16 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <br>
 <br>
 <b>Deepfake Text Detection: Limitations and Opportunities</b>
-<br>Jiameng Pu, <b>Zain Sarwar</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
+<br>Jiameng Pu*, <b>Zain Sarwar*</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
 <br>IEEE S&P (Oakland) 2023, San Francisco, CA, May 2023.
 <br>
 <a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
 <a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
 </div>
-
 <br>
-
-<h3>News Coverage</h3>
+<b> * indicates equal contribution</b>
+<br>
+<h3>Media Coverage</h3>
 
 <b>Deepfake Text Detection: Limitations and Opportunities</b>
 <br>
