@@ -38,6 +38,7 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <br>IEEE S&P (Oakland) 2023, San Francisco, CA, May 2023.
 <br>
 <a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://www.youtube.com/watch?v=UEjWBVc85tc" class="btn-sm btn-primary text-decoration-none">Video</a>
 <a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
 </div>
 <br>
@@ -50,4 +51,5 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext" >Communications of the ACM</a>
 <br>
 <a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html" >TechXplore</a>
+
 
