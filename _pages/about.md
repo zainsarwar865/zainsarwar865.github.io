@@ -23,6 +23,12 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <br>
 <h3>Publications</h3>
 
+<b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
+<br>Zhuolin Yang, <b>Zain Sarwar</b>, Iris Hwang, Ronik Bhaskar, Ben Y. Zhao, Haitao Zheng
+<br>Proceedings of USENIX Security Symposium
+<br>PHILADELPHIA, PA, August 2024.
+<br>
+
 <b>Towards a General Video-based Keystroke Inference Attack</b>
 <br>Zhuolin Yang, Yuxin Chen, <b>Zain Sarwar</b>, Hadleigh Schwartz, Ben Y. Zhao, Haitao Zheng
 <br>Proceedings of USENIX Security Symposium
