@@ -28,6 +28,7 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <br>Proceedings of USENIX Security Symposium
 <br>PHILADELPHIA, PA, August 2024.
 <br>
+<br>
 
 <b>Towards a General Video-based Keystroke Inference Attack</b>
 <br>Zhuolin Yang, Yuxin Chen, <b>Zain Sarwar</b>, Hadleigh Schwartz, Ben Y. Zhao, Haitao Zheng
