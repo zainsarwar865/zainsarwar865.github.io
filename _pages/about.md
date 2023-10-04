@@ -15,7 +15,7 @@ redirect_from:
 
 <h3>About me</h3>
 
-I am a second-year PhD student at the University Of Chicago in the department of Computer Science. I work in the <a href="https://sandlab.cs.uchicago.edu/">SAND Lab</a> where I am being advised by Professor <a href="http://people.cs.uchicago.edu/~htzheng/"> Heather Zheng </a> and Professor <a href="http://people.cs.uchicago.edu/~ravenben/"> Ben Zhao </a>. I am interested in developing efficient and robust neural architectures for Natural Language Processing.
+I am a second-year PhD student at the University Of Chicago in the department of Computer Science. I work in the <a href="https://sandlab.cs.uchicago.edu/">SAND Lab</a> where I am being advised by Professor <a href="http://people.cs.uchicago.edu/~htzheng/"> Heather Zheng </a> and Professor <a href="http://people.cs.uchicago.edu/~ravenben/"> Ben Zhao </a>. My current research is focused on efficient data sharing in data markets to improve deep learning models.
 
 </div>
 
@@ -26,7 +26,7 @@ I am a second-year PhD student at the University Of Chicago in the department of
 <b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
 <br>Zhuolin Yang, <b>Zain Sarwar</b>, Iris Hwang, Ronik Bhaskar, Ben Y. Zhao, Haitao Zheng
 <br>Proceedings of USENIX Security Symposium
-<br>PHILADELPHIA, PA, August 2024.
+<br>Philadelphia, PA, August 2024.
 <br>
 <br>
 
