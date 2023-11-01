@@ -28,6 +28,11 @@ I am a third-year PhD student at the University Of Chicago in the department of 
 <br>Proceedings of USENIX Security Symposium
 <br>Philadelphia, PA, August 2024.
 <br>
+
+<a href="https://arxiv.org/abs/2310.16191" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://sandlab.cs.uchicago.edu/vrkeystroke/" class="btn-sm btn-danger text-decoration-none">Project Webpage</a>
+
+<br>
 <br>
 
 <b>Towards a General Video-based Keystroke Inference Attack</b>
