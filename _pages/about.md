@@ -15,7 +15,7 @@ redirect_from:
 
 <h3>About me</h3>
 
-I am a third-year PhD student at the University Of Chicago in the department of Computer Science. I am being advised by Professor Michael Maire. My current research is focused on valuing large private datasets in terms of their utility for a particular task in the context of data markets.
+I am a third-year PhD student at the University Of Chicago in the department of Computer Science. I am being advised by Professor Michael Maire. My current research is focused on valuing large private datasets in terms of their utility for a particular task in the context of data markets. 
 
 </div>
 
