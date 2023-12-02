@@ -58,6 +58,10 @@ I am a third-year PhD student at the University Of Chicago in the department of 
 <br>
 <h3>Media Coverage</h3>
 
+<b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
+<br>
+<a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/" >New Scientist </a>
+
 <b>Deepfake Text Detection: Limitations and Opportunities</b>
 <br>
 <a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext" >Communications of the ACM</a>
