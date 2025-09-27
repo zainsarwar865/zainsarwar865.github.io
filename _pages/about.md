@@ -9,6 +9,17 @@ redirect_from:
 
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style>
+.gap-lg {
+    /* Set a custom large margin to the right (end) of the element */
+    margin-right: 30px !important; 
+    /* Adjust '30px' to whatever size you prefer (e.g., 40px, 50px) */
+}
+</style>
+
+
 </head>
 
   <div>
@@ -25,13 +36,13 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <h3>Publications</h3>
 
 
-
 <div class="d-flex align-items-start mb-4">
-    <img src="/pics/struct_schematic.pdf" 
+    <img src="/images/struct_schematic.pdf" 
          alt="StructMoE paper visual" 
-         class="img-fluid me-4" 
+         class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
-        <div>
+
+    <div>
         <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
         <br><b>Zain Sarwar</b>, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
         <br> NeurIPS EMNSLP 2024
@@ -39,6 +50,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
         <a href="https://proceedings.mlr.press/v262/sarwar24a.html" class="btn-sm btn-success text-decoration-none">PDF</a>
     </div>
 </div>
+
 
 
 <br>
