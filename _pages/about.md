@@ -11,7 +11,7 @@ redirect_from:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
-<div>
+  <div>
 
 <h3>About me</h3>
 
@@ -25,7 +25,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <h3>Publications</h3>
 
 <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
-<br><b>Zain Sarwar<b>, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
+<br><b>Zain Sarwar</b>, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
 <br> NeurIPS EMNSLP 2024
 <br>
 <a href="https://proceedings.mlr.press/v262/sarwar24a.html" class="btn-sm btn-success text-decoration-none">PDF</a>
@@ -34,7 +34,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 
 <b>Dense Backpropagation Improves Training for Sparse Mixture-of-Experts</b>
-<br>Ashwinee Panda, Vatsal Baherwani, <b>Zain Sarwar<b>, Benjamin Thérien, Sambit Sahu, Tom Goldstein, Supriyo Chakraborty
+<br>Ashwinee Panda, Vatsal Baherwani, <b>Zain Sarwar</b>, Benjamin Thérien, Sambit Sahu, Tom Goldstein, Supriyo Chakraborty
 <br>NeurIPS 2025
 <br>
 
@@ -45,7 +45,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <b>Continual Pre-training of MoEs: How robust is your router?</b>
-<br>Benjamin Thérien, Charles-Étienne Joseph, <b>Zain Sarwar<b>, Ashwinee Panda, Anirban Das, Shi-Xiong Zhang, Stephen Rawls, Sambit Sahu, Eugene Belilovsky, Irina Rish
+<br>Benjamin Thérien, Charles-Étienne Joseph, <b>Zain Sarwar</b>, Ashwinee Panda, Anirban Das, Shi-Xiong Zhang, Stephen Rawls, Sambit Sahu, Eugene Belilovsky, Irina Rish
 <br>TMLR 
 <br>
 
@@ -55,7 +55,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 
 <b>MYCROFT: Towards Effective and Efficient External Data Augmentation</b>
-<br><b>Zain Sarwar<b>, Van Tran, Arjun Nitin Bhagoji, Nick Feamster, Ben Y Zhao, Supriyo Chakraborty
+<br><b>Zain Sarwar</b>, Van Tran, Arjun Nitin Bhagoji, Nick Feamster, Ben Y Zhao, Supriyo Chakraborty
 <br> NeurIPS MlforSYS 2024
 <br>
 <a href="https://arxiv.org/pdf/2410.08432" class="btn-sm btn-success text-decoration-none">PDF</a>
