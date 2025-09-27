@@ -10,6 +10,7 @@ redirect_from:
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <style>
 .gap-lg {
@@ -19,10 +20,9 @@ redirect_from:
 }
 </style>
 
-
 </head>
 
-  <div>
+<div>
 
 <h3>About me</h3>
 
@@ -37,7 +37,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/struct_schematic.pdf" 
+    <img src="/paper_illustrations/structmoe.png" 
          alt="StructMoE paper visual" 
          class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
@@ -55,7 +55,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/origrouter.png" 
+    <img src="/paper_illustrations/origrouter.png" 
          alt="Dense Router" 
          class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
@@ -74,7 +74,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/cpt_moe.pdf" 
+    <img src="/paper_illustrations/cpt.png" 
          alt="CPT MOE" 
          class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
@@ -114,7 +114,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/deepfake.pdf" 
+    <img src="/paper_illustrations/deepfake.png" 
          alt="Deepfake detection" 
          class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
@@ -134,7 +134,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/vr_keystroke.pdf" 
+    <img src="/paper_illustrations/vr_keystroke.png" 
          alt="Keystroke Inference" 
          class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
@@ -152,7 +152,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/keystroke.pdf" 
+    <img src="/paper_illustrations/keystroke.png" 
          alt="Keystroke Inference" 
          class="img-fluid gap-lg" 
          style="width: 150px; height: auto; flex-shrink: 0;"> 
