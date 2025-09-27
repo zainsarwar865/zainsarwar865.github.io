@@ -26,11 +26,12 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 
-
 <div class="d-flex align-items-start mb-4">
-    <img src="/pics/struct_schematic.pdf" alt="StructMoE paper visual" class="img-fluid me-3" style="width: 120px; height: auto; flex-shrink: 0;">
-
-    <div>
+    <img src="/pics/struct_schematic.pdf" 
+         alt="StructMoE paper visual" 
+         class="img-fluid me-4" 
+         style="width: 150px; height: auto; flex-shrink: 0;"> 
+        <div>
         <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
         <br><b>Zain Sarwar</b>, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
         <br> NeurIPS EMNSLP 2024
@@ -38,15 +39,6 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
         <a href="https://proceedings.mlr.press/v262/sarwar24a.html" class="btn-sm btn-success text-decoration-none">PDF</a>
     </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 <br>
