@@ -95,7 +95,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/sharing_mechanism.jpg" 
+    <img src="/paper_illustrations/sharing_mechanism.png" 
          alt="Data Sharing" 
          class="img-fluid gap-lg" 
          style="width: 250px; height: 250px; flex-shrink: 0;"> 
