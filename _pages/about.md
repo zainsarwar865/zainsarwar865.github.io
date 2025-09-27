@@ -114,6 +114,26 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
+    <img src="/images/deepfake.pdf" 
+         alt="Deepfake detection" 
+         class="img-fluid gap-lg" 
+         style="width: 150px; height: auto; flex-shrink: 0;"> 
+
+    <div>
+        <b>Deepfake Text Detection: Limitations and Opportunities</b>
+        <br>Jiameng Pu*, <b>Zain Sarwar*</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
+        <br> IEEE S&P (Oakland) 2023
+        <br>
+        <a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
+    </div>
+</div>
+
+
+<br>
+<br>
+
+
+<div class="d-flex align-items-start mb-4">
     <img src="/images/vr_keystroke.pdf" 
          alt="Keystroke Inference" 
          class="img-fluid gap-lg" 
@@ -131,8 +151,6 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 <br>
 
-
-
 <div class="d-flex align-items-start mb-4">
     <img src="/images/keystroke.pdf" 
          alt="Keystroke Inference" 
@@ -147,25 +165,6 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
         <a href="https://www.usenix.org/system/files/usenixsecurity23-yang-zhuolin.pdf" class="btn-sm btn-success text-decoration-none">PDF</a>
     </div>
 </div>
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/images/deepfake.pdf" 
-         alt="Deepfake detection" 
-         class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
-
-    <div>
-        <b>Deepfake Text Detection: Limitations and Opportunities</b>
-        <br>Jiameng Pu*, <b>Zain Sarwar*</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
-        <br> IEEE S&P (Oakland) 2023
-        <br>
-        <a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-<br>
-<br>
-
 
 
 
