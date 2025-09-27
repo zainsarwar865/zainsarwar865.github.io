@@ -51,37 +51,63 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     </div>
 </div>
 
+<br>
+<br>
+
+<div class="d-flex align-items-start mb-4">
+    <img src="/images/origrouter.png" 
+         alt="Dense Router" 
+         class="img-fluid gap-lg" 
+         style="width: 150px; height: auto; flex-shrink: 0;"> 
+
+    <div>
+        <b>Dense Backpropagation Improves Training for Sparse Mixture-of-Experts</b>
+        <br>Ashwinee Panda, Vatsal Baherwani, <b>Zain Sarwar</b>, Benjamin Thérien, Sambit Sahu, Tom Goldstein, Supriyo Chakraborty
+        <br> NeurIPS 2025
+        <br>
+        <a href="https://arxiv.org/pdf/2504.12463" class="btn-sm btn-success text-decoration-none">PDF</a>
+    </div>
+</div>
+
+<br>
+<br>
+
+
+<div class="d-flex align-items-start mb-4">
+    <img src="/images/cpt_moe.pdf" 
+         alt="CPT MOE" 
+         class="img-fluid gap-lg" 
+         style="width: 150px; height: auto; flex-shrink: 0;"> 
+
+    <div>
+        <b>Continual Pre-training of MoEs: How robust is your router?</b>
+        <br>Benjamin Thérien, Charles-Étienne Joseph, <b>Zain Sarwar</b>, Ashwinee Panda, Anirban Das, Shi-Xiong Zhang, Stephen Rawls, Sambit Sahu, Eugene Belilovsky, Irina Rish
+        <br> TMLR 2025
+        <br>
+        <a href="https://arxiv.org/pdf/2503.05029" class="btn-sm btn-success text-decoration-none">PDF</a>
+    </div>
+</div>
 
 
 <br>
 <br>
 
-<b>Dense Backpropagation Improves Training for Sparse Mixture-of-Experts</b>
-<br>Ashwinee Panda, Vatsal Baherwani, <b>Zain Sarwar</b>, Benjamin Thérien, Sambit Sahu, Tom Goldstein, Supriyo Chakraborty
-<br>NeurIPS 2025
-<br>
-
-<a href="https://arxiv.org/pdf/2504.12463" class="btn-sm btn-success text-decoration-none">PDF</a>
-
-<br>
-<br>
 
 
-<b>Continual Pre-training of MoEs: How robust is your router?</b>
-<br>Benjamin Thérien, Charles-Étienne Joseph, <b>Zain Sarwar</b>, Ashwinee Panda, Anirban Das, Shi-Xiong Zhang, Stephen Rawls, Sambit Sahu, Eugene Belilovsky, Irina Rish
-<br>TMLR 
-<br>
+<div class="d-flex align-items-start mb-4">
+    <img src="/images/sharing_mechanism.jpg" 
+         alt="Data Sharing" 
+         class="img-fluid gap-lg" 
+         style="width: 150px; height: auto; flex-shrink: 0;"> 
 
-<a href="https://arxiv.org/pdf/2503.05029" class="btn-sm btn-success text-decoration-none">PDF</a>
-
-<br>
-<br>
-
-<b>MYCROFT: Towards Effective and Efficient External Data Augmentation</b>
-<br><b>Zain Sarwar</b>, Van Tran, Arjun Nitin Bhagoji, Nick Feamster, Ben Y Zhao, Supriyo Chakraborty
-<br> NeurIPS MlforSYS 2024
-<br>
-<a href="https://arxiv.org/pdf/2410.08432" class="btn-sm btn-success text-decoration-none">PDF</a>
+    <div>
+        <b>MYCROFT: Towards Effective and Efficient External Data Augmentation</b>
+        <br><b>Zain Sarwar</b>, Van Tran, Arjun Nitin Bhagoji, Nick Feamster, Ben Y Zhao, Supriyo Chakraborty
+        <br> NeurIPS MlforSYS 2024
+        <br>
+        <a href="https://arxiv.org/pdf/2410.08432" class="btn-sm btn-success text-decoration-none">PDF</a>
+    </div>
+</div>
 
 <br>
 <br>
