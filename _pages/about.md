@@ -28,7 +28,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="_pics/struct_schematic.pdf" alt="StructMoE paper visual" class="img-fluid me-3" style="width: 120px; height: auto; flex-shrink: 0;">
+    <img src="/pics/struct_schematic.pdf" alt="StructMoE paper visual" class="img-fluid me-3" style="width: 120px; height: auto; flex-shrink: 0;">
 
     <div>
         <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
