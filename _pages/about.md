@@ -24,12 +24,14 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 <h3>Publications</h3>
 
-
 <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
 <br><b>Zain Sarwar<b>, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
 <br> NeurIPS EMNSLP 2024
 <br>
 <a href="https://proceedings.mlr.press/v262/sarwar24a.html" class="btn-sm btn-success text-decoration-none">PDF</a>
+
+<br>
+<br>
 
 <b>Dense Backpropagation Improves Training for Sparse Mixture-of-Experts</b>
 <br>Ashwinee Panda, Vatsal Baherwani, <b>Zain Sarwar<b>, Benjamin Thérien, Sambit Sahu, Tom Goldstein, Supriyo Chakraborty
@@ -37,6 +39,9 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 <br>
 
 <a href="https://arxiv.org/pdf/2504.12463" class="btn-sm btn-success text-decoration-none">PDF</a>
+
+<br>
+<br>
 
 
 <b>Continual Pre-training of MoEs: How robust is your router?</b>
@@ -46,12 +51,17 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 <a href="https://arxiv.org/pdf/2503.05029" class="btn-sm btn-success text-decoration-none">PDF</a>
 
+<br>
+<br>
 
 <b>MYCROFT: Towards Effective and Efficient External Data Augmentation</b>
 <br><b>Zain Sarwar<b>, Van Tran, Arjun Nitin Bhagoji, Nick Feamster, Ben Y Zhao, Supriyo Chakraborty
 <br> NeurIPS MlforSYS 2024
 <br>
 <a href="https://arxiv.org/pdf/2410.08432" class="btn-sm btn-success text-decoration-none">PDF</a>
+
+<br>
+<br>
 
 <b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
 <br>Zhuolin Yang, <b>Zain Sarwar</b>, Iris Hwang, Ronik Bhaskar, Ben Y. Zhao, Haitao Zheng
