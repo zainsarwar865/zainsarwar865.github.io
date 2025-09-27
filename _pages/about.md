@@ -40,7 +40,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     <img src="/paper_illustrations/structmoe.png" 
          alt="StructMoE paper visual" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
@@ -58,7 +58,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     <img src="/paper_illustrations/origrouter.png" 
          alt="Dense Router" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>Dense Backpropagation Improves Training for Sparse Mixture-of-Experts</b>
@@ -77,7 +77,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     <img src="/paper_illustrations/cpt.png" 
          alt="CPT MOE" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>Continual Pre-training of MoEs: How robust is your router?</b>
@@ -95,10 +95,10 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
 
 
 <div class="d-flex align-items-start mb-4">
-    <img src="/images/sharing_mechanism.jpg" 
+    <img src="/paper_illustrations/sharing_mechanism.jpg" 
          alt="Data Sharing" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>MYCROFT: Towards Effective and Efficient External Data Augmentation</b>
@@ -117,7 +117,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     <img src="/paper_illustrations/deepfake.png" 
          alt="Deepfake detection" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>Deepfake Text Detection: Limitations and Opportunities</b>
@@ -137,7 +137,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     <img src="/paper_illustrations/vr_keystroke.png" 
          alt="Keystroke Inference" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
@@ -155,7 +155,7 @@ My research is focused on advancing the capabilities and efficiency of LLMs. I'v
     <img src="/paper_illustrations/keystroke.png" 
          alt="Keystroke Inference" 
          class="img-fluid gap-lg" 
-         style="width: 150px; height: auto; flex-shrink: 0;"> 
+         style="width: 150px; height: 150px; flex-shrink: 0;"> 
 
     <div>
         <b>Towards a General Video-based Keystroke Inference Attack</b>
