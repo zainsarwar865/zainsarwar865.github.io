@@ -1,184 +1,29 @@
 ---
+layout: about
+title: about
 permalink: /
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: Applied Researcher, LLM Core &amp; Agentic AI &middot; <a href='https://www.capitalone.com/'>Capital One</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: true
+  more_info: >
+    <p>PhD, Computer Science</p>
+    <p>University of Chicago</p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
 ---
 
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+I'm an Applied Researcher on the LLM Core team at Capital One. I recently completed my PhD in Computer Science at the University of Chicago, advised by [Michael Maire](https://people.cs.uchicago.edu/~mmaire/).
 
-<style>
-.gap-lg {
-    /* Set a custom large margin to the right (end) of the element */
-    margin-right: 30px !important; 
-    /* Adjust '30px' to whatever size you prefer (e.g., 40px, 50px) */
-}
-</style>
-
-</head>
-
-<div>
-
-<h3>About me</h3>
-
-I am a 5th year PhD student at the University Of Chicago in the department of Computer Science. I am being advised by Professor Michael Maire. <br>
-My research is focused on advancing the capabilities and efficiency of LLMs. I've worked on architectural innovations like designing sparse augmentations that introduce dynamic, token-level specialization within standard transformers to improve model performance. I'm also working on developing techniques for doing structured reasoning and context pruning for reasoning models. <br>
-<br>
-</div>
-
-<div>
-<br>
-<h3>Publications</h3>
-
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/structmoe.png" 
-         alt="StructMoE paper visual" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>StructMoE: Structured Mixture of Experts Using Low Rank Experts</b>
-        <br><b>Zain Sarwar</b>, Ashwinee Panda, Benjamin Thérien, Stephen Rawls, Anirban Das, Kartik Balasubramaniam, Berkcan Kapusuzoglu, Shixiong Zhang, Sambit Sahu, Milind Naphade, Supriyo Chakraborty
-        <br> NeurIPS EMNSLP 2024
-        <br>
-        <a href="https://proceedings.mlr.press/v262/sarwar24a.html" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-<br>
-<br>
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/origrouter.png" 
-         alt="Dense Router" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>Dense Backpropagation Improves Training for Sparse Mixture-of-Experts</b>
-        <br>Ashwinee Panda, Vatsal Baherwani, <b>Zain Sarwar</b>, Benjamin Thérien, Sambit Sahu, Tom Goldstein, Supriyo Chakraborty
-        <br> NeurIPS 2025
-        <br>
-        <a href="https://arxiv.org/pdf/2504.12463" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-<br>
-<br>
-
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/cpt.png" 
-         alt="CPT MOE" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>Continual Pre-training of MoEs: How robust is your router?</b>
-        <br>Benjamin Thérien, Charles-Étienne Joseph, <b>Zain Sarwar</b>, Ashwinee Panda, Anirban Das, Shi-Xiong Zhang, Stephen Rawls, Sambit Sahu, Eugene Belilovsky, Irina Rish
-        <br> TMLR 2025
-        <br>
-        <a href="https://arxiv.org/pdf/2503.05029" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-
-<br>
-<br>
-
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/sharing_mechanism.png" 
-         alt="Data Sharing" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>MYCROFT: Towards Effective and Efficient External Data Augmentation</b>
-        <br><b>Zain Sarwar</b>, Van Tran, Arjun Nitin Bhagoji, Nick Feamster, Ben Y Zhao, Supriyo Chakraborty
-        <br> NeurIPS MlforSYS 2024
-        <br>
-        <a href="https://arxiv.org/pdf/2410.08432" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-<br>
-<br>
-
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/deepfake.png" 
-         alt="Deepfake detection" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>Deepfake Text Detection: Limitations and Opportunities</b>
-        <br>Jiameng Pu*, <b>Zain Sarwar*</b>, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
-        <br> IEEE S&P (Oakland) 2023
-        <br>
-        <a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-
-<br>
-<br>
-
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/vr_keystroke.png" 
-         alt="Keystroke Inference" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
-        <br>Zhuolin Yang, <b>Zain Sarwar</b>, Iris Hwang, Ronik Bhaskar, Ben Y. Zhao, Haitao Zheng
-        <br> USENIX 2024
-        <br>
-        <a href="https://arxiv.org/abs/2310.16191" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-<br>
-<br>
-
-<div class="d-flex align-items-start mb-4">
-    <img src="/paper_illustrations/keystroke.png" 
-         alt="Keystroke Inference" 
-         class="img-fluid gap-lg" 
-         style="width: 200px; height: 200px; flex-shrink: 0;"> 
-
-    <div>
-        <b>Towards a General Video-based Keystroke Inference Attack</b>
-        <br>Zhuolin Yang, Yuxin Chen, <b>Zain Sarwar</b>, Hadleigh Schwartz, Ben Y. Zhao, Haitao Zheng
-        <br> USENIX 2023
-        <br>
-        <a href="https://www.usenix.org/system/files/usenixsecurity23-yang-zhuolin.pdf" class="btn-sm btn-success text-decoration-none">PDF</a>
-    </div>
-</div>
-
-
-
-
-<!-- 
-<h3>Media Coverage</h3>
-
-<b>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</b>
-<br>
-<a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/" >New Scientist </a>
-
-<b>Deepfake Text Detection: Limitations and Opportunities</b>
-<br>
-<a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext" >Communications of the ACM</a>
-<br>
-<a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html" >TechXplore</a>
-
- -->
+My research is about making large language models more capable and more efficient. During my PhD I worked on **Mixture-of-Experts** (sparse and low-rank experts, dense routing gradients, continual pre-training), **memory**, and **efficient reasoning** (structured thoughts and context pruning for reasoning models). Earlier in my PhD I worked on security and machine learning, including deepfake text detection and keystroke inference attacks.
