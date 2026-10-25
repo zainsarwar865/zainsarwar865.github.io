@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
-    <p>PhD, Computer Science</p>
-    <p>University of Chicago</p>
 
 selected_papers: true
 social: true
