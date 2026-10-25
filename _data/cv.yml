@@ -67,10 +67,3 @@ cv:
         highlights:
           - Designed a Transformer feedforward architecture with token-routed low-rank components, improving perplexity and downstream accuracy over parameter- and FLOP-matched dense baselines.
 
-    Skills:
-      - label: Machine Learning
-        details: LLM pretraining and post-training, Transformers, Mixture-of-Experts, neural memory, long-context modeling, SFT, RLHF/GRPO/PPO, DPO, evaluation
-      - label: Infrastructure
-        details: PyTorch, DeepSpeed, FSDP, Megatron-LM, CUDA, Triton, NCCL, Slurm, Kubernetes, Kubeflow, Docker
-      - label: Languages
-        details: Python, C, C++, Java, JavaScript, Go, Haskell, MATLAB
