@@ -11,6 +11,8 @@ toc:
   sidebar: left
 ---
 
+<p><i class="fa-solid fa-envelope"></i> <a href="mailto:zsarwar865@gmail.com">zsarwar865@gmail.com</a></p>
+
 <p><a href="/assets/pdf/CV.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf"></i> Download PDF</a></p>
 
 <style>
