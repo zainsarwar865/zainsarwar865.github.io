@@ -1,16 +1,7 @@
 cv:
   name: Zain Sarwar
   label: Applied Researcher, LLM Core & Agentic AI
-  email: zsarwar865@gmail.com
-  location: New York, NY
   image: ""
-  summary: Applied researcher focused on efficient and capable language models, covering Mixture-of-Experts, neural memory, and efficient reasoning.
-
-  social_networks:
-    - network: GitHub
-      username: zainsarwar865
-    - network: LinkedIn
-      username: zain-sarwar-562249151
 
   sections:
     Education:
@@ -20,16 +11,6 @@ cv:
         studyType: PhD
         start_date: 2021-10
         end_date: 2026-09
-        score: "3.91/4.00"
-        highlights:
-          - "Dissertation: Routing, Summarization, and Memory in Neural Architectures for Reasoning and Language"
-      - institution: Lahore University of Management Sciences (LUMS)
-        location: Lahore, Pakistan
-        area: Economics and Computer Science
-        studyType: BSc
-        start_date: 2016-09
-        end_date: 2020-06
-        score: "3.82/4.00"
 
     Experience:
       - company: Capital One
@@ -37,33 +18,18 @@ cv:
         location: New York, NY
         start_date: 2026-10
         end_date: present
-        highlights:
-          - Develop and train LLMs for internal enterprise applications and agentic AI products, across pretraining, post-training, and deployment.
-          - Design SFT, DPO, and RL pipelines to improve reasoning, instruction following, and domain-specific performance.
-          - Build custom training objectives, data pipelines, and evaluation frameworks to adapt open-weight LLMs to enterprise workflows.
-          - Build and optimize distributed training infrastructure for large-scale LLM pretraining and post-training.
       - company: University of Chicago
         position: Graduate Research Assistant
         location: Chicago, IL
         start_date: 2021-10
         end_date: 2026-09
-        highlights:
-          - "Differentiable neural memory for long-context Transformers: hierarchical memory with sparse read/write that scales capacity while avoiding quadratic attention cost."
-          - "Default MoE (NeurIPS 2025): improved sparse expert routing by providing gradient signal to unselected experts without extra expert computation."
-          - "Continual pretraining and router behavior in MoEs (TMLR 2025): studied router stability, specialization, and robustness under distribution shift."
       - company: Capital One
         position: Applied Research Intern, LLM Core & Agentic AI
         location: New York, NY
         start_date: 2025-06
         end_date: 2025-08
-        highlights:
-          - "Structured Thoughts: a reasoning framework that separates intermediate computation from summarized outcomes, with pruning-aware attention to cut context length and attention compute."
-          - Improved reasoning accuracy by 4-5% on selected benchmarks with more memory-efficient long-form reasoning.
       - company: Capital One
         position: Applied Research Intern, LLM Pretraining
         location: New York, NY
         start_date: 2024-06
         end_date: 2024-08
-        highlights:
-          - Designed a Transformer feedforward architecture with token-routed low-rank components, improving perplexity and downstream accuracy over parameter- and FLOP-matched dense baselines.
-
